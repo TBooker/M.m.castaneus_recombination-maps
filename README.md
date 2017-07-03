@@ -1,4 +1,4 @@
-# <M. m. castaneus> recombination maps
+# **M. m. castaneus** recombination maps
 
 This repo contains the recombination maps constructed for M. m. castnaeus using LDhelmet. 
 
