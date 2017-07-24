@@ -1,8 +1,8 @@
 # **M. m. castaneus** recombination maps
 
-This repo contains the recombination maps constructed for M. m. castnaeus using LDhelmet.
+This repo contains the recombination maps constructed for M. m. castaneus using LDhelmet.  
 
-I have compressed the maps from the LDhelmet output to make them smaller and more easily worked upon. I removed consecutive pairs of SNPs with the same recombination rate to save space and to format the rates into a kind-of GFF/GTF format. Here is an example couple of lines:
+I have compressed the maps from the LDhelmet output to make them smaller and more easily worked upon. I removed consecutive pairs of SNPs with the same recombination rate to save space and to format the rates into a kind-of GFF/GTF format. I did this so that the files are indexable with Tabix. Here is an example couple of lines:
 ```
 chr1	recom_rate	LDhelmet	3157499	3157499	.	9.4346e-03	104.27522436
 chr1	recom_rate	LDhelmet	3157507	3157507	.	5.6209e-03	104.32019156
